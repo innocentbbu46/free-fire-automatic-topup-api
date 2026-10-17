@@ -1,4 +1,4 @@
-# 🔥 Free Fire Automatic UID Top-Up API (Instant Delivery)
+# 🔥 Free Fire API (Instant Delivery)
 
 [![API Status](https://img.shields.io/badge/API_Status-Online_24%2F7-brightgreen?style=for-the-badge)](https://matrixgamingstore.com)
 [![Delivery](https://img.shields.io/badge/Delivery-Instant_(1--5_Sec)-blue?style=for-the-badge)](https://matrixgamingstore.com)
